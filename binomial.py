@@ -46,4 +46,4 @@ def func(n_size,p_sucess,lenght_experiment):
             return(f"Increase n, {mean_of_z} not close to {map_to_max_pmf} ")
       
       
-print(func(n_size,p_sucess,lenght_experiment)) # If you want to fix values for testing, replace inputs functions by your values
+print(func(n_size,p_sucess,lenght_experiment)) # If you want to fix values for testing, replace inputs arguments by your values
